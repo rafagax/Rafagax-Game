@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Guess My Number!</title>
+  </head>
+  <body>
+    <header>
+      <h1 id="titulo">Adivina Mi Numero!</h1>
+      <p class="between">(Entre 1 y 20)</p>
+      <button class="btn again">Again!</button>
+      <div class="number">?</div>
+    </header>
+    <main>
+      <div class="modal ">
+        <button class="close-modal">&times;</button>
+        <h2>Rafagax`s Game </h2>
+        <p>
+          Rafagax's Game
+Adivina mi número con la menor cantidad de intentos posibles. Tienes 3 turnos con 10 oportunidades para acumular la mayor cantidad de puntos.
+
+¡Suerte!
+        </p>
+        <h2>suerte!</h2>
+      </div>
+      <section class="left">
+        <input type="number" class="guess" value="0" />
+        <button class="btn check">Check!</button>
+      </section>
+      <section class="right">
+        <p class="message">  - Empieza colocando un numero -</p>
+        <p class="label-score">💯 puntos: <span class="score">10</span></p>
+        <p class="label-highscore">
+          🥇 Record: <span class="highscore">0</span>
+        </p>
+      </section>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
