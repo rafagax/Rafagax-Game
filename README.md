@@ -34,4 +34,4 @@ Sigue estos pasos para ejecutar el juego en tu entorno local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/Rafagax-Game.git
+   git clone git@github.com:rafagax/Rafagax-Game.git
