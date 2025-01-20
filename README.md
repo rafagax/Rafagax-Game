@@ -2,7 +2,7 @@
 
 **Descripción breve:** Rafagax Game es un juego interactivo desarrollado con HTML, CSS y JavaScript. Ofrece una experiencia divertida y adictiva para usuarios de todas las edades.
 
-🌐 **[Jugar en línea](https://rafagax-game.vercel.app/)**
+🌐 **[Ver y jugar en linea con este proyecto](https://rafagax-game.vercel.app/)**
 
 ----
 
@@ -32,6 +32,7 @@
 
 Sigue estos pasos para ejecutar el juego en tu entorno local:
 
+🌐 **[Ver y jugar en linea con este proyecto](https://rafagax-game.vercel.app/)**
 1. **Clonar el repositorio:**
    ```bash
    git clone git@github.com:rafagax/Rafagax-Game.git
