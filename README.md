@@ -4,14 +4,14 @@
 
 🌐 **[Jugar en línea](https://rafagax-game.vercel.app/)**
 
----
+----
 
 ## Características
 - **Diseño atractivo:** Interfaz visualmente agradable y optimizada para dispositivos móviles y de escritorio.
 - **Interactividad:** Responde a las acciones del usuario de forma dinámica.
 - **Entretenimiento asegurado:** Niveles desafiantes y divertidos para mantener a los usuarios enganchados.
 
----
+----
 
 ## Tecnologías Usadas
 - **HTML5:** Estructura del juego.
